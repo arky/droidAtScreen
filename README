@@ -1,7 +1,12 @@
-Droid@Screen tool enables you to display your android screen on your desktop
-in portrait/landscape mode and does image scaling too. 
+Droid@Screen tool enables you to display your android screen on your desktop in portrait/landscape mode and does image scaling too. 
 
-The program is available here http://blog.ribomation.com/droid-at-screen/ . The website is unavailable sometimes. So I decided to mirror this tool here. 
+You can launch Droid@Screen on terminal. 
+
+$ java -jar droidAtScreen-0.5.1.jar
+
+
+The program is available here http://blog.ribomation.com/droid-at-screen/ . 
+The website is unavailable sometimes. So I decided to mirror this tool here. 
 
 Read more for further information:
 http://playingwithsid.blogspot.com/2012/03/how-to-display-your-android-screen-on.html
